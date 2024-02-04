@@ -1,0 +1,10 @@
+:root{
+    --font: "Lora", serif;
+}
+
+
+.hero{
+    text-align:center;
+    background-color: #f9f7fe;
+    font-family: var(--font);
+}
