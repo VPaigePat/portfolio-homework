@@ -62,3 +62,16 @@ img {
     padding: 30px 0px;
 }
 
+@media (max-width: 900px){
+    h2{
+        font-size: 54px;
+    }
+    .project-description{
+        font-size: 48px;
+}
+.container{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+}
