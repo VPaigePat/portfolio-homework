@@ -17,7 +17,8 @@ p{
 }
 
 img {
-    width: 550px;
+    width: 500px;
+    height: 500px;
     box-shadow: 10px 5px 5px var(--secondary-color);
 }
 .hero{
@@ -80,6 +81,16 @@ img {
 .content-continer h2 {
     font-size: 18px;
     font-family: var(--defaultfont);
+}
+.content-continer h3 {
+    font-family: 24px;
+    font-family: var(--defaultfont);
+    line-height: 1.5; 
+}
+.content p {
+    font-size: 14px;
+    padding: 0;
+    text-align: center;
 }
 
 @media (max-width: 900px){
